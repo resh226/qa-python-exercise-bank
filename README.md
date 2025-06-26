@@ -105,3 +105,15 @@ This repository is built to help:
 - 🔁 Regular practice of Python testing skills
 
 Happy Testing! 🧪🚀
+
+---
+
+## 📅 Author
+
+Reshma Sajeev| ISTQB Certified Tester| Manual & Automation | 🔗 https://www.linkedin.com/in/reshma-sajeev-889b7215b/
+* ⭐ This repository is part of my QA learning and practice journey. I'm actively improving it as I grow!
+
+---
+
+> Star this repo if it helped you learn something new! ⭐
+
