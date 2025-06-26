@@ -31,7 +31,7 @@ pip install pytest openpyxl requests pytest-html
 
 ## 📁 Folder 1: `qa_python_foundations`
 
-**Objective:** Practice and revise Python basics, useful for QA automation and interviews.
+**Objective:** Hands-on practice practice and revision on Python basics, useful for QA automation and interviews.
 
 **Topics Covered:**
 - ✅ Basics: Arithmetic, conditionals, loops
